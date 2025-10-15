@@ -1,7 +1,8 @@
-#12Be #Isomer
+#12Be #Isomer #cascaded-decay #positron-annihilation #experiment #in-flight-gamma
 
 [pdf](D:/paper/12Be-isomer/Shimoura-2003-PLB.pdf)
 
+实验文章
 实验观测到 [[12C]]、[[12B]] 的 2.1 MeV 的 $0^+$ 态，很可能在 A=12 的 T=2 的多重态中 $2^+_1$ 和 $0^+_2$ 都在 2.1 MeV 附近。
 ## 实验
 可能有 $0^+_2 \rightarrow 2^+_1 \rightarrow 0^+(g.s.)$ 的级联衰变，或者 $0^+_2 \rightarrow 0^+(g.s.)$ 的[[正负电子对发射]]、[[内转换]]，该实验测得是两个 $\gamma$ 符合得级联衰变。用的 [[DALI]] 阵列 ([[NaI(Tl)]]) 测量出射得 $\gamma$，探测能量阈值为 **50keV**。 
@@ -17,7 +18,7 @@ $\gamma$ 分析要开门，通过蒙卡模拟不同的光子能量得到多个�
 
 ```bibtex
 @article{Shimoura2003,
-	title = {Isomeric 0+ state in 12Be},
+	title = {Isomeric $0^+$ state in ${}^{12}$Be},
 	journal = {Physics Letters B},
 	volume = {560},
 	number = {1},
