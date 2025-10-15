@@ -3,8 +3,10 @@
 [pdf](D:/paper/12Be-isomer/Shimoura-2007-PLB.pdf)
 
 测量到寿命为 $\tau = 331\pm12$ ns，跃迁强度为 $B(E2;0^+_2\rightarrow2^+_1)=7.0\pm0.6 e^2{\rm fm^4}$ 和 $|\left<0^+_2|\sum_ie_ir_i^2|0^+_1\right>|=0.87\pm0.03e{\rm fm^2}$
+## 作者
+[[S. Shimoura]]
 ## 实验
-[[RIKEN]] 做的实验，用 $4\times4\times4$ 的塑料阻停 52 AMeV 的 [[12Be]] 束流，用6段的[[高纯锗]]（[[GRAPE]]） 覆盖 140$^\circ$ 测量其发出的 $\gamma$ 射线。对于 0.15 和 1 MeV 的 $\gamma$ 射线的效率为 1.2% 和 0.4%，符合的时候开了 9us 的窗。
+[[RIKEN]] 做的实验，用 $4\times4\times4$ 的塑料阻停 52 AMeV 的 [[12Be]] 束流，用6段的[[HPGe]]（[[GRAPE]]） 覆盖 140$^\circ$ 测量其发出的 $\gamma$ 射线。对于 0.15 和 1 MeV 的 $\gamma$ 射线的效率为 1.2% 和 0.4%，符合的时候开了 9us 的窗。
 ## 分析
 高纯锗分辨很好，测量到了144、511、2107 keV 的峰，误差再 1keV 以内。
 用 $A\exp(-t/\tau)+B$ 拟合 计数率（ns$^{-1}$）-时间（ns）图谱，得到寿命 $\tau$。
