@@ -1,4 +1,4 @@
-#12Be #Isomer #cascaded-decay #positron-annihilation #experiment #in-flight-gamma
+#12Be #Isomer #cascaded-decay #positron-annihilation #experiment #in-flight-gamma #internal-pair-formation
 
 [pdf](D:/paper/12Be-isomer/Shimoura-2003-PLB.pdf)
 
@@ -6,7 +6,7 @@
 ## 作者
 [[S. Shimoura]]
 ## 实验
-可能有 $0^+_2 \rightarrow 2^+_1 \rightarrow 0^+(g.s.)$ 的级联衰变，或者 $0^+_2 \rightarrow 0^+(g.s.)$ 的[[正负电子对发射]]、[[内转换]]，该实验测得是两个 $\gamma$ 符合得级联衰变。用的 [[DALI]] 阵列 ([[NaI(Tl)]]) 测量出射得 $\gamma$，探测能量阈值为 **50keV**。 
+可能有 $0^+_2 \rightarrow 2^+_1 \rightarrow 0^+(g.s.)$ 的级联衰变，或者 $0^+_2 \rightarrow 0^+(g.s.)$ 的**内电子对产生**（[[internal-pair-formation]]）、**内转换**[[internal-conversion]]，该实验测得是两个 $\gamma$ 符合得级联衰变。用的 [[DALI]] 阵列 ([[NaI(Tl)]]) 测量出射得 $\gamma$，探测能量阈值为 **50keV**。 
 ## 分析
 要做 [[Doppler-shift]] 修正，需要知道反应点（[[vertex point]]），反应点由能量更高得 $\gamma$ 径迹确定，位置分辨 **5cm**，Doppler-shift 修正得准确度是 **10%**。
 $\gamma$ 分析要开门，通过蒙卡模拟不同的光子能量得到多个能谱，再用实验数据拟合，取拟合最好的模拟参数。

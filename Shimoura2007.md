@@ -1,4 +1,4 @@
-#12Be #isomer #positron-annihilation #experiment #lifetime #delayed-gamma
+#12Be #isomer #positron-annihilation #experiment #lifetime #delayed-gamma #internal-pair-formation 
 
 [pdf](D:/paper/12Be-isomer/Shimoura-2007-PLB.pdf)
 
@@ -10,7 +10,7 @@
 ## 分析
 高纯锗分辨很好，测量到了144、511、2107 keV 的峰，误差再 1keV 以内。
 用 $A\exp(-t/\tau)+B$ 拟合 计数率（ns$^{-1}$）-时间（ns）图谱，得到寿命 $\tau$。
-由于 12Be 的原子序数很小，估计内转换的概率是电子对的 $2 \times 10^{-4}$。
+由于 12Be 的原子序数很小，估计内转换的概率是内电子对产生的 $2 \times 10^{-4}$。
 ## 物理
 ## 引用
 

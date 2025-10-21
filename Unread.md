@@ -13,3 +13,28 @@ N. Itagaki, S. Okabe, and K. Ikeda, Phys. Rev. C 62, 034301(2000), and reference
 A. Saito, Ph.D thesis, Rikkyo University, 2006; A. Saito et al.,
 AIP Conf. Proc. 891, p. 205 (2006).
 [20] A. Saito and S. Shimoura (private communication, 2008).
+
+[[DellAquila2016]]
+[7] T. Suhara, Y. Funaki, B. Zhou, H. Horiuchi, and A. Tohsaki, Phys. Rev. Lett. 112, 062501 (2014).
+[8] T. Ichikawa, J. A. Maruhn, N. Itagaki, and S. Ohkubo, Phys. Rev. Lett. 107, 112501 (2011).
+[9] Y. Kanada-En’yo, Phys. Rev. C 91, 034303 (2015)
+[15] N. Soic´ et al., Europhys. Lett. 34, 7 (1996).
+[16] N. Curtis, D. D. Caussyn, N. R. Fletcher, F. Marechal, N. Fay, and D. Robson, Phys. Rev. C 64, 044604 (2001).
+[17] M. Freer, E. Casarejos, L. Achouri, C. Angulo, N. I. Ashwood, N. Curtis, P. Demaret, C. Harlin, B. Laurent, M. Milin, N. A. Orr, D. Price, R. Raabe, N. Soic, and V. A. Ziman, ´ Phys. Rev. Lett. 96, 042501 (2006).
+
+[[KanadaEnyo2020]]
+[15] Y. Kanada-En’yo and H. Horiuchi, Phys. Rev. C 55, 2860 (1997).
+[16] H. Iwasaki et al., Phys. Lett. B 481, 7 (2000).
+[17] Y. Kanada-En’yo, Phys. Rev. C 71, 014310 (2005).
+[18] Y. Kanada-En’yo, Phys. Rev. C 71, 014303 (2005).
+[19] H. Sagawa, X. R. Zhou, X. Z. Zhang, and T. Suzuki, Phys. Rev. C 70, 054316 (2004).
+[20] M. Takashina, Y. Kanada-En’yo, and Y. Sakuragi, Phys. Rev. C 71, 054602 (2005).
+[21] H. J. Ong et al., Phys. Rev. C 73, 024610 (2006).
+[22] T. J. Bürvenich, W. Greiner, L. Guo, P. Klüpfel, and P. G. Reinhard, J. Phys. G 35, 025103 (2008).
+[23] M. Takashina and Y. Kanada-En’yo, Phys. Rev. C 77, 014604 (2008).
+[24] Z. Elekes, N. Aoi, Zs. Dombrádi, Zs. Fülöp, T. Motobayashi, and H. Sakurai, Phys. Rev. C 78, 027301 (2008).
+[25] M. Wiedeking et al., Phys. Rev. Lett. 100, 152501 (2008).
+[26] J. M. Yao, J. Meng, P. Ring, Z. X. Li, Z. P. Li, and K. Hagino, Phys. Rev. C 84, 024306 (2011).
+[27] C. Forssén, R. Roth, and P. Navrátil, J. Phys. G 40, 055105 (2013).
+[28] T. Furuno et al., Phys. Rev. C 100, 054322 (2019).
+[32] Y. Kanada-En’yo, Phys. Rev. C 84, 024317 (2011).
