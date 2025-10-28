@@ -16,17 +16,17 @@
 
 ```bibtex
 @article{Shimoura2007,
-title = {Lifetime of the isomeric $0_2^+$ state in 12Be},
-journal = {Physics Letters B},
-volume = {654},
-number = {3},
-pages = {87-91},
-year = {2007},
-issn = {0370-2693},
-doi = {https://doi.org/10.1016/j.physletb.2007.08.053},
-url = {https://www.sciencedirect.com/science/article/pii/S0370269307010131},
-author = {S. Shimoura and S. Ota and K. Demichi and N. Aoi and H. Baba and Z. Elekes and T. Fukuchi and T. Gomi and K. Hasegawa and E. Ideguchi and M. Ishihara and N. Iwasa and H. Iwasaki and S. Kanno and S. Kubono and K. Kurita and M. Kurokawa and Y.U. Matsuyama and S. Michimasa and K. Miller and T. Minemura and T. Motobayashi and T. Murakami and M. Notani and A. Odahara and A. Saito and H. Sakurai and E. Takeshita and S. Takeuchi and M. Tamaki and T. Teranishi and K. Yamada and Y. Yanagisawa and I. Hamamoto},
-keywords = {Lifetime, Reduced matrix elements, Radioactive beam experiment},
-abstract = {Mean lifetime τ of the isomeric 02+ state in 12Be has been determined by measuring decay spectra of delayed γ-rays from stopped 12Be nuclei produced by the projectile fragmentation of 18O at 100 A MeV. A consistent value of τ=331±12 ns was obtained from the time spectra of the E2 γ decay to the 21+ state and the positron annihilation following the E0 decay to the ground state. Based on the observed branching ratio between the E2 and E0 decays, transition strengths of the two decay modes were deduced to be B(E2;02+→21+)=7.0±0.6 e2fm4 and |〈02+|∑ieiri2|01+〉|=0.87±0.03 efm2, respectively.}
+	title = {Lifetime of the isomeric $0_2^+$ state in 12Be},
+	journal = {Physics Letters B},
+	volume = {654},
+	number = {3},
+	pages = {87-91},
+	year = {2007},
+	issn = {0370-2693},
+	doi = {https://doi.org/10.1016/j.physletb.2007.08.053},
+	url = {https://www.sciencedirect.com/science/article/pii/S0370269307010131},
+	author = {S. Shimoura and S. Ota and K. Demichi and N. Aoi and H. Baba and Z. Elekes and T. Fukuchi and T. Gomi and K. Hasegawa and E. Ideguchi and M. Ishihara and N. Iwasa and H. Iwasaki and S. Kanno and S. Kubono and K. Kurita and M. Kurokawa and Y.U. Matsuyama and S. Michimasa and K. Miller and T. Minemura and T. Motobayashi and T. Murakami and M. Notani and A. Odahara and A. Saito and H. Sakurai and E. Takeshita and S. Takeuchi and M. Tamaki and T. Teranishi and K. Yamada and Y. Yanagisawa and I. Hamamoto},
+	keywords = {Lifetime, Reduced matrix elements, Radioactive beam experiment},
+	abstract = {Mean lifetime τ of the isomeric 02+ state in 12Be has been determined by measuring decay spectra of delayed γ-rays from stopped 12Be nuclei produced by the projectile fragmentation of 18O at 100 A MeV. A consistent value of τ=331±12 ns was obtained from the time spectra of the E2 γ decay to the 21+ state and the positron annihilation following the E0 decay to the ground state. Based on the observed branching ratio between the E2 and E0 decays, transition strengths of the two decay modes were deduced to be B(E2;02+→21+)=7.0±0.6 e2fm4 and |〈02+|∑ieiri2|01+〉|=0.87±0.03 efm2, respectively.}
 }
 ```

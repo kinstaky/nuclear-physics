@@ -58,3 +58,17 @@ AIP Conf. Proc. 891, p. 205 (2006).
 
 10Be 的形变，理论文章
 [32] Y. Kanada-En’yo, Phys. Rev. C 84, 024317 (2011).
+
+
+[[Oertzen1996]]
+Nielson scheme
+[5] D. Scharnweber, W. Greiner, U. Mosel: Nucl. Phys. A164 (1971) 257
+
+p+9Be -> 10B 的实验
+[9] C. Schwarz et al.: Phys. Rev. C49 (1994) 3316
+[10] T.K. Nayak et al.: Phys. Rev. C45 (1992) 132
+[11] D. Morrissey, W. Benenson, W. Friedmann: Ann. Rev. Nucl. Particle Science 44 (1995) 28
+
+更重的 Be、B 中的两中心结构理论计算
+[20] A.A. Korshennikov et at.: Phys. Lett. B343 (1995) 53
+[21] H. Horiuchi et al.: Nucl. Phys. A588 (1995) 121c and private communications
