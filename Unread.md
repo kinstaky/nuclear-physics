@@ -72,3 +72,14 @@ p+9Be -> 10B 的实验
 更重的 Be、B 中的两中心结构理论计算
 [20] A.A. Korshennikov et at.: Phys. Lett. B343 (1995) 53
 [21] H. Horiuchi et al.: Nucl. Phys. A588 (1995) 121c and private communications
+
+
+[[Oertzen1997]]
+10Be和 10B 的结构
+[10] Seya, M., Kohno, M., Nagata, S.: Prog. Theor. Phys. 65, 204 (1981)
+
+alpha-n 的链状、环状结构
+[11] Wilkinson, D.H.: Nucl. Phys. A452, 296 (1986)
+
+10Be 结构
+[30] Kanada-Enyo, Y.K., Horiuchi, H., Ono, A.: Phys. Rev. C52, 628 ( 1995);
