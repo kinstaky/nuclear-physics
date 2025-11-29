@@ -1,3 +1,7 @@
+[[Furutani1980]]
+[[Ikeda1980]]
+
+
 [[Shimoura2003]]
 讨论 A=12 核的 $0^+_2$
 [5] F. Barker, J. Phys. G 2 (1976) L45 .
@@ -83,3 +87,7 @@ alpha-n 的链状、环状结构
 
 10Be 结构
 [30] Kanada-Enyo, Y.K., Horiuchi, H., Ono, A.: Phys. Rev. C52, 628 ( 1995);
+
+
+RCNP-13Be-proposal
+[22] A. Korsheninnikov, et al., Phys. Lett. B 343 (1995) 53.
