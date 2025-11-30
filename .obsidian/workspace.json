@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "7ad8493a864bf11c",
+        "id": "bda6ee6607130e33",
         "type": "tabs",
         "children": [
           {
-            "id": "66ab6c7509be7d86",
+            "id": "e92c6a3714dfb17a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bohr1936.md",
+                "file": "Coriolis coupling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bohr1936"
+              "title": "Coriolis coupling"
+            }
+          },
+          {
+            "id": "cdbcdbce9026bf98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "paper/Ma2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ma2024"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,6 +187,18 @@
   },
   "active": "e829afbd4d6e0d76",
   "lastOpenFiles": [
+    "Coriolis coupling.md",
+    "paper/Ma2024.md",
+    "paper/Ito2016.md",
+    "paper/Thomas1952.md",
+    "Unread.md",
+    "paper/Itagaki2000.md",
+    "Untitled.canvas",
+    "paper/Ehrman1951.md",
+    "paper/Ito2008.md",
+    "paper/Baba2019.md",
+    "paper/M. Ito.md",
+    "Template/Paper.md",
     "paper",
     "internal-pair-formation.md",
     "Bohr1936.md",
@@ -183,21 +210,11 @@
     "Itagaki2000.md",
     "Oertzen2006.md",
     "Oertzen1997.md",
-    "Unread.md",
     "Ikeda1980.md",
     "Furutani1980.md",
     "Gula2022.md",
     "Fortune2011.md",
     "CHIMERA.md",
-    "Coriolis coupling.md",
-    "Shimoura2003.md",
-    "Ito2008.md",
-    "Shimoura2007.md",
-    "KanadaEnyo2020.md",
-    "DellAquila2016.md",
-    "Kuvin2017.md",
-    "Furumoto2021.md",
-    "RomeroRedondo2008.md",
     "Template"
   ]
 }
